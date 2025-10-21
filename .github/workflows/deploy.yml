@@ -22,4 +22,3 @@ jobs:
           script: |
             cd /var/www/sohag
             git pull origin main
-            docker compose up -d
